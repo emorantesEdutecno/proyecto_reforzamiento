@@ -10,7 +10,6 @@
         <p>Mensaje recibido del Hijo: {{  mensajeRecibido }}</p>
     </div>
 </template>
-
 <script>
 import HijoComponent from '@/components/HijoComponent.vue';
 export default{
